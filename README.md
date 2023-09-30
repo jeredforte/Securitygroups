@@ -34,11 +34,9 @@ First create a resource group that has two virtual machines on the same virtual 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+![Screenshot 2023-08-27 205152](https://github.com/jeredforte/Securitygroups/assets/143118208/2b98c16b-54e5-478b-81d9-9fff5e807057)
+use remote destop to acess your window 10 virtual machine and open wireshark and filter for ICMP track. retrive the private IP address from your Linux and attempt to ping it observe the ping request and replys.
 </p>
 <br />
 
